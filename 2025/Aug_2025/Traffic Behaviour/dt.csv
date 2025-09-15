@@ -1,0 +1,37 @@
+City,Vehicle Type,Weather,Economic Condition,Day Of Week,Hour Of Day,Speed,Is Peak Hour,Random Event Occurred,Energy Consumption,Traffic Density
+New York,Car,Sunny,Stable,Monday,8,60,True,False,50,Medium
+New York,Car,Sunny,Stable,Monday,12,55,True,False,48,High
+New York,Bus,Rainy,Stable,Tuesday,16,40,False,False,60,High
+Los Angeles,Car,Cloudy,Stable,Wednesday,10,65,False,False,45,Low
+Los Angeles,Car,Sunny,Stable,Thursday,18,50,True,True,55,Medium
+Los Angeles,Truck,Rainy,Declining,Friday,14,35,False,False,70,High
+Chicago,Car,Snowy,Stable,Saturday,9,45,False,False,42,Medium
+Chicago,Car,Sunny,Growing,Sunday,13,55,True,False,47,Low
+Chicago,Bus,Cloudy,Growing,Monday,17,30,True,False,65,High
+New York,Car,Sunny,Stable,Monday,8,58,True,False,52,Medium
+New York,Car,Sunny,Stable,Monday,12,56,True,False,47,High
+New York,Bus,Rainy,Stable,Tuesday,16,42,False,False,58,High
+Los Angeles,Car,Cloudy,Stable,Wednesday,10,64,False,False,47,Low
+Los Angeles,Car,Sunny,Stable,Thursday,18,52,True,True,53,Medium
+Los Angeles,Truck,Rainy,Declining,Friday,14,38,False,False,68,High
+Chicago,Car,Snowy,Stable,Saturday,9,43,False,False,40,Medium
+Chicago,Car,Sunny,Growing,Sunday,13,54,True,False,49,Low
+Chicago,Bus,Cloudy,Growing,Monday,17,32,True,False,63,High
+New York,Car,Sunny,Stable,Monday,8,57,True,False,48,Medium
+New York,Car,Sunny,Stable,Monday,12,54,True,False,46,High
+New York,Bus,Rainy,Stable,Tuesday,16,38,False,False,56,High
+Los Angeles,Car,Cloudy,Stable,Wednesday,10,63,False,False,44,Low
+Los Angeles,Car,Sunny,Stable,Thursday,18,48,True,True,52,Medium
+Los Angeles,Truck,Rainy,Declining,Friday,14,36,False,False,66,High
+Chicago,Car,Snowy,Stable,Saturday,9,41,False,False,43,Medium
+Chicago,Car,Sunny,Growing,Sunday,13,53,True,False,45,Low
+Chicago,Bus,Cloudy,Growing,Monday,17,28,True,False,60,High
+New York,Car,Sunny,Stable,Monday,8,59,True,False,49,Medium
+New York,Car,Sunny,Stable,Monday,12,57,True,False,50,High
+New York,Bus,Rainy,Stable,Tuesday,16,41,False,False,59,High
+Los Angeles,Car,Cloudy,Stable,Wednesday,10,62,False,False,46,Low
+Los Angeles,Car,Sunny,Stable,Thursday,18,49,True,True,51,Medium
+Los Angeles,Truck,Rainy,Declining,Friday,14,37,False,False,69,High
+Chicago,Car,Snowy,Stable,Saturday,9,44,False,False,41,Medium
+Chicago,Car,Sunny,Growing,Sunday,13,52,True,False,48,Low
+Chicago,Bus,Cloudy,Growing,Monday,17,31,True,False,64,High
